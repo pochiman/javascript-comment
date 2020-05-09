@@ -1,8 +1,8 @@
 ## JavaScript Comment
 
-Create a comment component to match the provided mock.  All data in the comment should be pulled from JavaScript. You may replace the user image with an image of your choice.
+Create a comment component to match the provided mock. All data in the comment should be pulled from JavaScript. You may replace the user image with an image of your choice.
 
-# Requirements:
+## Requirements:
 
 - It should visually match the mock
 - Include a readme
@@ -11,10 +11,10 @@ Create a comment component to match the provided mock.  All data in the comment 
 - The “reply”, “{n} replies”, and up/down arrow counts are each interactive elements (they do not need to function, but should be coded as interactive elements)
 - When the entire comment is hovered, the light-grey items (“reply”, “{n} replies”, and up/down arrows with counts) should become visibly darker
 
-# Notes:
+## Instructions:
 
-This project is written in React. 
-
-- From the project directory, run the app by using `yarn start`.
+- Open your terminal and proceed to the project directory.
+- Install the server dependencies by using `npm install`.
+- Run the app by using `yarn start`.
 - Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 - Run the tests by using `yarn test`.
